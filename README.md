@@ -1,6 +1,6 @@
-#Pietro da Silva Klug
+# Pietro da Silva Klug
 
-##Olá Pessoas:exclamation:
+## Olá Pessoas:exclamation:
 
 Sou estudante na área de T.I., Atualmente cursando tecnólogo de Análise e Desenvolvimento de Sistemas.
 Busco me tornar um excelente Desenvolvedor Front-End.
