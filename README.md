@@ -6,7 +6,7 @@ Sou estudante na área de T.I., Atualmente cursando tecnólogo de Análise e Des
 Busco me tornar um excelente Desenvolvedor.
 Sou entusiasta em Desenvolvimento de Games.
 
-Atualmente estágiando na Be-Mobile tech como back-end developer.
+Atualmente atuando na BeMobile tech como back-end developer.
 <br /> :computer: &nbsp; Tenho conhecimentos em ReactJS, Vue.js, AdonisJS, Laravel.
 <br /> &nbsp; Sobre mim: Curto tecnologias, amante de jogos LoL, RDR2, etc. E seriados e filmes diversos.
 <br /> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-PietroDSK-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pietrodsk/)](https://www.linkedin.com/in/pietrodsk/)
