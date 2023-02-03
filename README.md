@@ -2,7 +2,7 @@
 
 ## Olá Pessoas:exclamation:
 
-Sou estudante na área de T.I., Atualmente cursando tecnólogo de Análise e Desenvolvimento de Sistemas.
+Sou estudante na área de T.I., Formado em Análise e Desenvolvimento de Sistemas.
 Busco me tornar um excelente Desenvolvedor.
 Sou entusiasta em Desenvolvimento de Games.
 
